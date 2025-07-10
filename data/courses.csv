@@ -1,0 +1,51 @@
+course_id,category,instructor,price,published_date
+1,Business,Instructor 1,499,2021-09-08
+2,Data Science,Instructor 2,499,2021-11-25
+3,Data Science,Instructor 3,2499,2022-10-01
+4,Web Development,Instructor 4,499,2022-05-28
+5,Data Science,Instructor 5,1999,2022-10-09
+6,Data Science,Instructor 6,1499,2022-03-24
+7,Data Science,Instructor 7,2499,2022-07-15
+8,Marketing,Instructor 8,999,2021-02-12
+9,Business,Instructor 9,999,2022-10-23
+10,Data Science,Instructor 10,999,2021-07-12
+11,Data Science,Instructor 11,999,2022-06-27
+12,Design,Instructor 12,1999,2022-02-03
+13,Data Science,Instructor 13,1999,2021-11-10
+14,Data Science,Instructor 14,999,2022-05-04
+15,Web Development,Instructor 15,2499,2021-06-22
+16,Design,Instructor 16,1499,2021-07-06
+17,Marketing,Instructor 17,1999,2022-12-09
+18,Business,Instructor 18,499,2021-06-17
+19,Marketing,Instructor 19,499,2022-10-14
+20,Design,Instructor 20,1499,2021-04-04
+21,Marketing,Instructor 21,1499,2021-12-30
+22,Web Development,Instructor 22,2499,2022-11-15
+23,Business,Instructor 23,999,2022-06-14
+24,Marketing,Instructor 24,999,2021-01-18
+25,Marketing,Instructor 25,1499,2022-10-13
+26,Business,Instructor 26,999,2022-09-12
+27,Web Development,Instructor 27,2499,2021-01-19
+28,Marketing,Instructor 28,999,2022-02-21
+29,Design,Instructor 29,1499,2022-10-07
+30,Marketing,Instructor 30,999,2022-12-11
+31,Design,Instructor 31,999,2021-06-27
+32,Data Science,Instructor 32,999,2022-08-30
+33,Design,Instructor 33,1999,2021-12-08
+34,Design,Instructor 34,1999,2022-03-25
+35,Web Development,Instructor 35,499,2022-04-17
+36,Business,Instructor 36,1999,2022-04-19
+37,Data Science,Instructor 37,2499,2021-01-15
+38,Data Science,Instructor 38,1499,2022-08-11
+39,Design,Instructor 39,2499,2022-02-10
+40,Web Development,Instructor 40,1499,2022-08-24
+41,Data Science,Instructor 41,1999,2021-06-20
+42,Data Science,Instructor 42,2499,2022-12-01
+43,Web Development,Instructor 43,1499,2022-04-12
+44,Business,Instructor 44,2499,2021-01-21
+45,Business,Instructor 45,1999,2021-05-14
+46,Business,Instructor 46,1999,2021-04-27
+47,Data Science,Instructor 47,1499,2021-01-15
+48,Web Development,Instructor 48,1999,2021-05-31
+49,Business,Instructor 49,499,2021-12-05
+50,Data Science,Instructor 50,1999,2022-11-20
