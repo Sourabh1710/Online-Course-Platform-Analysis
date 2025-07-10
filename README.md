@@ -99,7 +99,7 @@ This project uses a synthetic dataset modeled after real-world online learning p
 ---
 
 ## 👨‍💼 Author
-**Sourabh Sonker**
+**Sourabh Sonker**                                                                                                                                                                                                         
 **Aspiring Data Scientist**
 
 ---
